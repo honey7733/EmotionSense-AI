@@ -1,0 +1,22 @@
+# Python Dependencies for Emotion Detection Backend
+# Install with: pip install -r requirements.txt
+
+# Core ML/AI dependencies
+numpy>=1.24.0
+scipy>=1.10.0
+torch>=2.0.0
+transformers>=4.30.0
+
+# ONNX Runtime for BiLSTM model inference
+onnxruntime>=1.15.0
+
+# Audio processing for voice emotion detection
+soundfile>=0.12.1
+librosa>=0.10.0
+
+# Web server for Python services
+flask>=3.0.0
+flask-cors>=4.0.0
+
+# Utilities
+python-dotenv>=1.0.0
