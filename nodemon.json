@@ -1,0 +1,6 @@
+{
+  "watch": ["app", "components", "lib", "contexts", "hooks", "store", "types"],
+  "ext": "ts,tsx,js,jsx,json",
+  "ignore": [".next", "node_modules"],
+  "exec": "next dev"
+}
