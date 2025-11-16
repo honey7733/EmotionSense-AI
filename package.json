@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@radix-ui/react-alert-dialog": "^1.1.15",
-    "framer-motion": "^12.23.24",
-    "react-beautiful-dnd": "^13.1.1"
-  }
-}
